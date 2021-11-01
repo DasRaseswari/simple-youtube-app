@@ -2,7 +2,7 @@
 
 React App to search and play videos from YouTube
 
-![simple-youtube](public/simple-video.png)
+![simple-youtube](public/simple-youtube.png)
 
 ## Tools Used
 
