@@ -9,6 +9,7 @@ React App to search and play videos from YouTube, using Hooks.
 - react-js [[Ref]](https://reactjs.org/docs/getting-started.html)
 - YouTube Data V3 API [[Ref]](https://developers.google.com/youtube/v3/docs/search/list)
 - Semantics UI (_for CSS_) [[Ref]](https://semantic-ui.com/introduction/getting-started.html)
+- Vercel [[Ref]](https://vercel.com/)
 
 ## Running the project
 
