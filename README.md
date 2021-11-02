@@ -1,6 +1,6 @@
 # [Live App Link](https://videos-hooks-sigma-beige.vercel.app/)
 
-React App to search and play videos from YouTube
+React App to search and play videos from YouTube, using Hooks.
 
 ![simple-youtube](public/simple-youtube.png)
 
